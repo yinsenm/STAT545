@@ -6,6 +6,8 @@ description: "STAT 545 GLM and CATEGORICAI DATA ANALYSIS course website for Fall
 baseurl: "/stat545"
 url: "http://yinsenm.github.io"
 
+paginate:  5
+
 # Build settings
 markdown: kramdown
 permalink: pretty
