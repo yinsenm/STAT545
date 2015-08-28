@@ -10,6 +10,6 @@ Homework can be submitted to the Yinsen Miao's mailbox at Duncan Hall DCH 1016 .
 
 --------------------
 
-- [Homework 1](/homework/hw1a_2015.pdf), due `Wednesday 9/2/2015`, [solutions]().
+- [Homework 1]({{ site.baseurl }}/homework/hw1a_2015.pdf), due `Wednesday 9/2/2015`, [solutions]().
 
 

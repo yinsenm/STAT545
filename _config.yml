@@ -4,7 +4,7 @@ descrp: GLM & CATEGORICAI DATA ANALYSIS
 email: yinsen.miao@rice.edu
 description: "STAT 545 GLM and CATEGORICAI DATA ANALYSIS course website for Fall 2015"
 baseurl: "/stat545/"
-url: "http://yinsenm.github.io/"
+url: "http://yinsenm.github.io"
 
 # Build settings
 markdown: kramdown
