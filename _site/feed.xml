@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>STAT 545 Course Website</title>
+    <description>STAT 545 GLM and CATEGORICAI DATA ANALYSIS course website for Fall 2015</description>
+    <link>http://ym11.web.rice.edu//</link>
+    <atom:link href="http://ym11.web.rice.edu//feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Welcome to STAT 545</title>
+        <description>&lt;p&gt;Welcome to STAT 545, GLM &amp;amp; CATEGORICAL DATA ANALYSIS! &lt;/p&gt;
+
+&lt;p&gt;This is the website you can find information such as homework, deadline and solution. &lt;/p&gt;
+
+&lt;p&gt;STAT 545 Teaching Assistant: Yinsen Miao&lt;/p&gt;
+
+&lt;p&gt;Office: DH2090&lt;/p&gt;
+
+&lt;p&gt;Email: &lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#121;&amp;#109;&amp;#049;&amp;#049;&amp;#064;&amp;#114;&amp;#105;&amp;#099;&amp;#101;&amp;#046;&amp;#101;&amp;#100;&amp;#117;&quot;&gt;&amp;#121;&amp;#109;&amp;#049;&amp;#049;&amp;#064;&amp;#114;&amp;#105;&amp;#099;&amp;#101;&amp;#046;&amp;#101;&amp;#100;&amp;#117;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Office Hours: &lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Monday  10:30 to 11:30 am&lt;/li&gt;
+  &lt;li&gt;Wednesday 10:30 to 11:30 am&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 26 Aug 2015 00:00:00 -0500</pubDate>
+        <link>http://ym11.web.rice.edu//2015/08/26/Welcome/</link>
+        <guid isPermaLink="true">http://ym11.web.rice.edu//2015/08/26/Welcome/</guid>
+      </item>
+    
+  </channel>
+</rss>

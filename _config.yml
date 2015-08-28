@@ -1,0 +1,11 @@
+# Site settings
+title: STAT 545 Course Website
+descrp: GLM & CATEGORICAI DATA ANALYSIS
+email: yinsen.miao@rice.edu
+description: "STAT 545 GLM and CATEGORICAI DATA ANALYSIS course website for Fall 2015"
+baseurl: ""
+url: "http://ym11.web.rice.edu/"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
