@@ -3,8 +3,8 @@
   <channel>
     <title>STAT 545 Course Website</title>
     <description>STAT 545 GLM and CATEGORICAI DATA ANALYSIS course website for Fall 2015</description>
-    <link>http://ym11.web.rice.edu//</link>
-    <atom:link href="http://ym11.web.rice.edu//feed.xml" rel="self" type="application/rss+xml" />
+    <link>http://yinsenm.github.io/stat545/</link>
+    <atom:link href="http://yinsenm.github.io/stat545/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
         <title>Welcome to STAT 545</title>
@@ -26,8 +26,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Wed, 26 Aug 2015 00:00:00 -0500</pubDate>
-        <link>http://ym11.web.rice.edu//2015/08/26/Welcome/</link>
-        <guid isPermaLink="true">http://ym11.web.rice.edu//2015/08/26/Welcome/</guid>
+        <link>http://yinsenm.github.io/stat545/2015/08/26/Welcome/</link>
+        <guid isPermaLink="true">http://yinsenm.github.io/stat545/2015/08/26/Welcome/</guid>
       </item>
     
   </channel>
