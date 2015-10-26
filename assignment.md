@@ -4,7 +4,7 @@ title: Assignment
 permalink: /assignment/
 ---
 
->Homework can be submitted to the Yinsen Miao's mailbox at Duncan Hall DCH 1092. You can  also compile your  LaTeX and [LyX](http://www.lyx.org/) to pdf and send it to me via <ym11@rice.edu>. Please do rename your pdf file as [*HW0X_netid_firstname_lastname.pdf*]() where X stands for the xth homework. If you don't have a rice netid, please replace the netid with your institute name.
+>Homework can be submitted to the Yinsen Miao's mailbox at Duncan Hall DCH 1092. You can  also compile your  LaTeX and [LyX](http://www.lyx.org/) to pdf and send it to me via <ym11@rice.edu>. Please do rename your pdf file as [*HWX_netid_firstname_lastname.pdf*]() where X stands for the xth homework. If you don't have a rice netid, please replace the netid with your institute name.
 
 --------------------
 
@@ -16,6 +16,9 @@ permalink: /assignment/
 - [Homework 4]({{ site.baseurl }}/homework/hw4_2015.pdf), due on `Wednesday 9/23/2015`, [solutions]({{ site.baseurl }}/reference/HW04.pdf).
 - Homework 5: [HW05a]({{ site.baseurl }}/homework/hw5a_2015.pdf), [HW05b]({{ site.baseurl }}/homework/hw5b_2015.pdf) due on `Wednesday 9/30/2015`, [solutions]({{ site.baseurl }}/reference/HW05.pdf).
 - [Midterm exam]({{ site.baseurl }}/homework/STAT545_midterm_exam_2015.pdf), [solutions]({{ site.baseurl }}/reference/midterm_exam_solution_10_15.pdf)
+
+
+>Homeworks in the second part **must** be prepared via LyX, LaTeX or Microsoft Word and send to TA's e-mail <ym11@rice.edu> or <yinsenm@gmail.com>. Please rename your filename properly as `HWX_netid_firstname_lastname.pdf` where X stands for the xth homework. In the subject of your e-mail, Please write something like `Homework X Part II STAT 545`.  
 
 --------------------
 
