@@ -10,4 +10,5 @@ permalink: /lecture/
 
 # **Part II**
 
-- [Lecture 1]({{ site.baseurl }}/lecture/Stat_545_Part_II_Slides.pdf), `Wednesday 10/21/2015`
+- [Lecture 1]({{ site.baseurl }}/lecture/Lecture_1.pdf), `Wednesday 10/21/2015`
+- [Lecture 2]({{ site.baseurl }}/lecture/Lecture_2.pdf), `Wednesday 10/28/2015`
