@@ -18,7 +18,7 @@ Homework can be submitted to the Yinsen Miao's mailbox at Duncan Hall DCH 1092. 
 - [Midterm exam]({{ site.baseurl }}/homework/STAT545_midterm_exam_2015.pdf), [solutions]({{ site.baseurl }}/reference/midterm_exam_solution_10_15.pdf)
 
 
-Homeworks in the second part **must** be prepared via LyX, LaTeX or Microsoft Word and send to TA's e-mail <ym11@rice.edu> or <yinsenm@gmail.com>. Please rename your filename properly as `HWX_netid_firstname_lastname.pdf` where X stands for the xth homework. In the subject of your e-mail, Please write something like `Homework X Part II STAT 545`.  
+Homeworks in the second part <font size="5" color="red">must</font> be prepared via LyX, LaTeX or Microsoft Word and send to TA's e-mail <ym11@rice.edu> or <yinsenm@gmail.com>. Please rename your filename properly as `HWX_netid_firstname_lastname.pdf` where X stands for the xth homework. In the subject of your e-mail, Please write something like `Homework X Part II STAT 545`.  
 
 --------------------
 
