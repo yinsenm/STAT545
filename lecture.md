@@ -14,3 +14,4 @@ permalink: /lecture/
 - [Lecture 2]({{ site.baseurl }}/lecture/Lecture_2.pdf), `Wednesday 10/28/2015`
 - [Lecture 3]({{ site.baseurl }}/lecture/Lecture_3.pdf), `Wednesday 11/04/2015`
 - [Lecture 4]({{ site.baseurl }}/lecture/Lecture_4.pdf), `Wednesday 11/11/2015`
+- [Lecture 5]({{ site.baseurl }}/lecture/Lecture_5.pdf), `Wednesday 11/18/2015`
