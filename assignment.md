@@ -24,5 +24,6 @@ Homeworks in the second part <font size="5" color="red">must</font> be prepared 
 
 **Part II**
 
-- [Homework 1]({{ site.baseurl }}/homework/Stat545-Part2-HW1.pdf), [basketball]({{ site.baseurl }}/homework/basketball.csv), due on `Wednesday 11/11/2015`, [solutions]({{ site.baseurl }}/reference/HW06.pdf).
-- [Homework 2]({{ site.baseurl }}/homework/Stat545-Part2-HW2.pdf), [GSS]({{ site.baseurl }}/homework/GSS.csv), [horseshoecrab]({{ site.baseurl }}/homework/horseshoecrab.csv), due on `Wednesday 11/18/2015`, [solutions]().
+- [Homework 6]({{ site.baseurl }}/homework/Stat545-Part2-HW1.pdf), [basketball]({{ site.baseurl }}/homework/basketball.csv), due on `Wednesday 11/11/2015`, [solutions]({{ site.baseurl }}/reference/HW06.pdf).
+- [Homework 7]({{ site.baseurl }}/homework/Stat545-Part2-HW2.pdf), [GSS]({{ site.baseurl }}/homework/GSS.csv), [horseshoecrab]({{ site.baseurl }}/homework/horseshoecrab.csv), due on `Wednesday 11/18/2015`, [solutions]({{ site.baseurl }}/reference/HW07.pdf).
+- [Homework 8]({{ site.baseurl }}/homework/Stat545-Part2-HW3.pdf), [attitude]({{ site.baseurl }}/homework/attitude.csv), due on `Wednesday 12/02/2015`, [solutions]().
